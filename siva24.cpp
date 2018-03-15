@@ -6,9 +6,9 @@ int main()
 	cin>>a;
 	for(b=1;b<=a;b++)
 	{
-  if(a%b==0)
+        if(a%b==0)
 	{
-  if(b%2==0)
+        if(b%2==0)
 	{
 	cout<<b;
 	}
