@@ -25,6 +25,6 @@ int main()
     if(flag==0)
     {
     cout<<"no";
-	  }
+    }
     return 0;
 } 
