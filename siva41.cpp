@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int a,b,c;
-  cin>>a;
+        cin>>a;
 	cin>>b;
 	c=sqrt(a);
 	if(b==c)
