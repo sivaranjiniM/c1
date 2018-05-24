@@ -3,11 +3,11 @@ using namespace std;
 #include<string>
 int main()
 {
-	int a,b;
-	cin>>a>>b;
-	a=a^b;
-	b=a^b;
-	a=a^b;
-	cout<<a<<"\t" <<b;
+	int x,y;
+	cin>>x>>y;
+	x=x^y;
+	y=x^y;
+	x=x^y;
+	cout<<x<<"\t" <<y;
 	return 0;
 }
